@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1603297470 source:c:\users\guilherme\desktop\pastas\cotil_tarefas\elaine\lp\mediaturmaloop\main.c
+	<stdio.h>
+	<stdlib.h>
+
